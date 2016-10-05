@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "617199159324",
+    "firebase_url": "https://flow-kimonos.firebaseio.com",
+    "project_id": "flow-kimonos",
+    "storage_bucket": "flow-kimonos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617199159324:android:37cde9cc81c14189",
+        "android_client_info": {
+          "package_name": "com.flowkimonos.flowkimonos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617199159324-nr1apfkv01614uais9tcp2ou7vr4iqjm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flowkimonos.flowkimonos",
+            "certificate_hash": "F17592AEF2E4108B2AABDFDE268836579771EE5F"
+          }
+        },
+        {
+          "client_id": "617199159324-d554oqc01m9euvs2net3skeqsp1kg9ia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO3NSXPcY7b85yWZV5chk6DwB0SEpRnJw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617199159324-d554oqc01m9euvs2net3skeqsp1kg9ia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
